@@ -1,1 +1,1 @@
-web: python anarchyhelper.py
+web: python anarchyhelper/anarchyhelper.py
