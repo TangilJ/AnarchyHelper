@@ -52,4 +52,4 @@ See this [repository's wiki](https://github.com/TheBlocks/AnarchyHelper/wiki) fo
 * PyGithub - Library to interact with the GitHub API
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/TheBlocks/AnarchyHelper/blob/master/LICENSE) file for details.
+This project is licensed under the BSD 2-Clause "Simplified" License. See the [LICENSE](https://github.com/TheBlocks/AnarchyHelper/blob/master/LICENSE) file for details.
