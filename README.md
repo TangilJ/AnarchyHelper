@@ -43,13 +43,12 @@ Run AnarchyHelper by typing:
 python anarchyhelper/anarchyhelper.py
 ```
 
-See this [repository's wiki](https://github.com/TheBlocks/AnarchyHelper/wiki) for more detailed information on setting up and running AnarchyHelper.
-
 ## Built with
 
-* PostgreSQL - Database to keep track of the users' line usage and its own comments
-* Pyramid - Web framework used to receive webhooks from GitHub
-* PyGithub - Library to interact with the GitHub API
+* [PostgreSQL](https://www.postgresql.org/) - Database to keep track of the users' line usage and its own comments
+* [psycopg2](https://github.com/psycopg/psycopg2) - Library to interact with PostgreSQL
+* [Pyramid](https://github.com/Pylons/pyramid) - Web framework used to receive webhooks from GitHub
+* [PyGithub](https://github.com/PyGithub/PyGithub) - Library to interact with the GitHub API
 
 ## License
 This project is licensed under the BSD 2-Clause "Simplified" License. See the [LICENSE](https://github.com/TheBlocks/AnarchyHelper/blob/master/LICENSE) file for details.
